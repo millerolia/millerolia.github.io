@@ -1,11 +1,13 @@
 
 .header {
+    bottom: 0;
     left: 0;
     width: 100%;
     background-color: #333333;
     color: #FFFFFF;
     text-align: center;
     padding: 20px;
+}
 }
 footer.footer {
     bottom: 0;
