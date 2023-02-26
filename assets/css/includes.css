@@ -26,14 +26,14 @@ footer.footer p {
     font-size: 14px;
 }
 nav {
-    background-color: #ff8787;
+    background-color: #333333;
     color: #FFFFFF;
     padding: 20px;
     margin-bottom: 20px;
     text-align: center;
 }
 nav a {
-    color: #333333;
+    color: #b4b4b4;
     text-decoration: none;
     margin-right: 20px;
     font-size: 20px;
